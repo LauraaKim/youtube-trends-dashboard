@@ -76,7 +76,7 @@ https://public.tableau.com/app/profile/laura.kim.furtado/viz/Projetodetendencias
 
 A apresentação completa do projeto está disponível neste repositório.
 
-📄 **Apresentação_Projeto_Dashboard_de_Tendências_do_YouTube.pdf**
+📄 **Apresentação_Projeto_ Dashboard de Tendências do YouTube.pdf**
 
 ---
 
