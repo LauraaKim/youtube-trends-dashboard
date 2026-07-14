@@ -1,22 +1,28 @@
 <p align="center">
-  <img src="dashboard.png" alt="YouTube Trends Dashboard" width="100%">
-</p>
 
-<h1 align="center">
-📊 YouTube Trends Dashboard
-</h1>
+# 📊 YouTube Trends Dashboard
 
-<p align="center">
-Análise de tendências de vídeos do YouTube utilizando Tableau Public.
+### Interactive Dashboard developed with Tableau Public
+
+**Análise de vídeos em tendência por categoria, país e período**
+
 </p>
 
 <p align="center">
 
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![Data Visualization](https://img.shields.io/badge/Data%20Visualization-4CAF50?style=for-the-badge)
-![Dashboard](https://img.shields.io/badge/Dashboard-2196F3?style=for-the-badge)
-![EDA](https://img.shields.io/badge/EDA-FF9800?style=for-the-badge)
+![Tableau](https://img.shields.io/badge/Tableau_Public-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Dashboard](https://img.shields.io/badge/Dashboard-Interactive-1E90FF?style=for-the-badge)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-4CAF50?style=for-the-badge)
+![EDA](https://img.shields.io/badge/Exploratory_Data_Analysis-FF9800?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="dashboard.png" width="90%">
 
 </p>
 
@@ -26,78 +32,81 @@ Análise de tendências de vídeos do YouTube utilizando Tableau Public.
 
 Este projeto apresenta um dashboard interativo desenvolvido no Tableau Public para analisar tendências de vídeos do YouTube.
 
-A solução permite explorar o comportamento dos vídeos em alta por categoria, país e período, auxiliando na identificação de padrões que podem apoiar decisões de marketing e análise de mercado.
+A análise permite identificar padrões de comportamento por categoria, país e período, oferecendo uma visão clara sobre a evolução dos vídeos em tendência.
 
 ---
 
-# 🌐 Dashboard
+# 🎯 Problema de Negócio
 
-### Tableau Public
+Empresas que investem em publicidade digital precisam compreender quais categorias apresentam maior relevância ao longo do tempo e como esse comportamento varia entre diferentes mercados.
 
-🔗
-
-https://public.tableau.com/app/profile/laura.kim.furtado/viz/Projetodetendencias_docx/Painel1
+Este dashboard foi desenvolvido para facilitar essa análise por meio de visualizações interativas.
 
 ---
 
-# 🎯 Objetivos
-
-- Analisar tendências de vídeos do YouTube
-- Comparar categorias entre diferentes países
-- Avaliar a evolução temporal dos vídeos em alta
-- Facilitar análises por meio de filtros interativos
-
----
-
-# 📈 Principais Insights
-
-✔ Entertainment e Music lideram a quantidade de vídeos em tendência.
-
-✔ Os Estados Unidos apresentam maior participação entre os países analisados.
-
-✔ News & Politics e Sports possuem maior relevância nos Estados Unidos.
-
-✔ O comportamento das tendências varia conforme a região analisada.
-
----
-
-# 🛠 Tecnologias
+# 🛠 Ferramentas Utilizadas
 
 - Tableau Public
 - Data Visualization
-- Dashboard Design
+- Exploratory Data Analysis (EDA)
 - Storytelling com Dados
 - Git
 - GitHub
 
 ---
 
-# 📄 Documentação
+# 📈 Principais Insights
 
-A apresentação completa do projeto está disponível neste repositório.
+- Entertainment e Music lideram a quantidade de vídeos em tendência.
 
-📄 **Apresentação_Projeto_ Dashboard de Tendências do YouTube.pdf**
+- Os Estados Unidos apresentam a maior participação entre os países analisados.
 
----
+- News & Politics e Sports possuem maior relevância no mercado americano.
 
-# ▶️ Como visualizar
-
-1. Abra o dashboard no Tableau Public.
-
-2. Utilize os filtros de Categoria, País e Período.
-
-3. Explore os indicadores e gráficos.
+- O comportamento das tendências varia entre diferentes regiões.
 
 ---
 
-# 👩‍💻 Autora
+# 📂 Arquivos do Projeto
+
+📄 Apresentação_Projeto_Dashboard_de_Tendências_do_YouTube.pdf
+
+🖼 dashboard.png
+
+---
+
+# 🌐 Dashboard Interativo
+
+## Tableau Public
+
+https://public.tableau.com/app/profile/laura.kim.furtado/viz/Projetodetendencias_docx/Painel1
+
+---
+
+# 🚀 Como visualizar
+
+1. Abra o Dashboard no Tableau Public.
+
+2. Utilize os filtros disponíveis.
+
+3. Explore as categorias.
+
+4. Compare países.
+
+5. Analise a evolução temporal.
+
+---
+
+# 👩‍💻 Sobre mim
 
 **Laura Kim Furtado**
 
-🔗 LinkedIn
+Analista de Dados em formação, com experiência em projetos utilizando Python, SQL, Tableau e Power BI para transformar dados em informações úteis para a tomada de decisão.
+
+### LinkedIn
 
 https://linkedin.com/in/laurakimfurtado
 
-🔗 GitHub
+### GitHub
 
 https://github.com/LauraaKim
